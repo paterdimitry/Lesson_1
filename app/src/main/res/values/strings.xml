@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">Lesson_1</string>
+    <string name="app_name">Android. Урок 1</string>
+    <string name="headerText">Приложение</string>
+    <string name="inputText">Введите свой текст</string>
+    <string name="pressMe">Нажми меня</string>
+    <string name="switchMe">Выбери меня</string>
+    <string name="choiсe">Выбор есть всегда</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="toggleButtonOff">Выкл</string>
+    <string name="toggleButtonOn">Вкл</string>
+    <string name="name">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="e_mail">e-mail</string>
+    <string name="phone">Телефон</string>
+    <string name="age">Возраст</string>
+    <string name="date">День рождения</string>
+    <string name="pin">Пин-код</string>
+    <string name="pinhint">Введите пин-код</string>
+    <string name="dateHint">Когда Вы родились</string>
+    <string name="ageHint">Сколько Вам лет</string>
+    <string name="phoneHint">Ваш номер телефона</string>
+    <string name="emailHint">Адрес электронной почты</string>
+    <string name="passwordHint">Ваш пароль</string>
+    <string name="nameHint">Ваше имя</string>
+    <string name="on">Да</string>
+    <string name="off">Нет</string>
 </resources>
